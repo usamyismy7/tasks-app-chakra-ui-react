@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Develop Login Screen",
+      "description": "Create a login screen for the Android app. It should support email and password authentication.",
+      "author": "John",
+      "img": "/img/john.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Implement User Registration",
+      "description": "Implement a user registration feature. Users should be able to sign up using their email and password.",
+      "author": "Jane",
+      "img": "/img/jane.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Create Home Screen",
+      "description": "Design and implement the home screen. It should display a list of available products.",
+      "author": "Bob",
+      "img": "/img/bob.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Optimize App Performance",
+      "description": "The app is running slow. Optimize the code to improve the app's performance.",
+      "author": "Alice",
+      "img": "/img/alice.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Integrate Social Media Login",
+      "description": "Integrate social media login. Users should be able to sign in using their Facebook or Google accounts.",
+      "author": "John",
+      "img": "/img/john.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Implement Product Search",
+      "description": "Implement a product search feature. Users should be able to search for products using keywords.",
+      "author": "Jane",
+      "img": "/img/jane.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Fix App Crashes",
+      "description": "The app is crashing on some devices. Identify and fix the issues causing the crashes.",
+      "author": "Bob",
+      "img": "/img/bob.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Add User Profile Screen",
+      "description": "Add a user profile screen. Users should be able to view and edit their profile information.",
+      "author": "Alice",
+      "img": "/img/alice.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Implement Push Notifications",
+      "description": "Implement push notifications. Users should receive notifications for important events.",
+      "author": "John",
+      "img": "/img/john.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Add Product Details Screen",
+      "description": "Add a product details screen. Users should be able to view detailed information about a product.",
+      "author": "Jane",
+      "img": "/img/jane.jpg"
+    }
+  ]
+}
