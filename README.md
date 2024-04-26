@@ -48,12 +48,12 @@ json-server ./data/db.json
 
 ## Screenshots
 
-![json-server terminal](./assets/image.png)
+![json-server terminal](https://raw.githubusercontent.com/usamyismy7/tasks-app-chakra-ui-react/master/assets/image.png)
 
-![home page](./assets/image2.png)
+![home page](https://raw.githubusercontent.com/usamyismy7/tasks-app-chakra-ui-react/master/assets/image2.png)
 
-![create task](./assets/image3.png)
+![create task](https://raw.githubusercontent.com/usamyismy7/tasks-app-chakra-ui-react/master/assets/image3.png)
 
-![profile account info](./assets/image4.png)
+![profile account info](https://raw.githubusercontent.com/usamyismy7/tasks-app-chakra-ui-react/master/assets/image4.png)
 
-![profile task history](./assets/image5.png)
+![profile task history](https://raw.githubusercontent.com/usamyismy7/tasks-app-chakra-ui-react/master/assets/image5.png)
